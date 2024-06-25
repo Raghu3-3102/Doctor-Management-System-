@@ -1,0 +1,22 @@
+
+-->>> How i create this website
+
+step 1 -> First i create one folder name as "check_me".
+
+// Backend Devlopment
+
+step 1.1 --> (server.js) Creating one server.js file wich is main entry point of our backend 
+             whare i import express and craete one instence of express and store it in 
+             verible so that we use as we need 
+
+step 1.2 --> (model.js) we create one folder inside it we create oe file named as  model.js 
+             for register users and entety is email,name,passward
+              
+step 1.3 --> (config.js) we create  one config folder and create on file inside it name as 
+             config.js whare i make connection between server and database
+
+step 1.4 --> (routes) we create one routes folder and crete on file inside it name as 
+             routes.js it is end point of our backend whare i write logic to handle
+             reqest response and api
+              
+             
